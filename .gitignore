@@ -1,0 +1,27 @@
+# Скомпилированные файлы и байт-код
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+
+# Файлы настроек IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Настройки VS Code
+.vscode/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Системные файлы macOS (скрытые файлы папок)
+.DS_Store
+.AppleDouble
+.LSOverride
+EOF
